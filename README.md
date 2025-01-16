@@ -1,7 +1,7 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+W_Foods Report 
 
 
 ## Agenda
@@ -18,7 +18,7 @@ This document specifies the reports and dashboards that will be delivered on the
 - Step 6 : Renamed Table as "Stores".Ensure the data types are accurate.Create a conditional column "Full Address","Area Code".
 - Step 7 :In Regions Table promoted Headers and checked the data types 
 - Step 8 :In Calender Table added following columns 
-(a) Start of week 
+  (a) Start of week 
 
   (b) Name of day 
   
@@ -37,9 +37,9 @@ This document specifies the reports and dashboards that will be delivered on the
 - Step 11: Created  data model and established relation between tables 
 - Step 12 : Analysed data using DAX measures 
 - Step 13 : Created a new measures quantity sold,quantity returned,Total Transactions,total Returns,Return Rate,Weekend Transactions,%Weekend Transactions,Total Revenue,Total Cost,Total profit,Profit Margin.
-- Step 12 : Created measures ytd Revenue ,60 day revenue,Last month Transactions,Last month revenue,last month profit,last month return 
-- Step 12 : - Step 12 : Analysed data using DAX measures.
-- Step 12 :  Visualized the data Table ,Map ,Bar chart ,Gauge chart and slicers .
+- Step 14 : Created measures ytd Revenue ,60 day revenue,Last month Transactions,Last month revenue,last month profit,last month return 
+- Step 15 : Analysed data using DAX measures.
+- Step 16 : Visualized the data Table ,Map ,Bar chart ,Gauge chart and slicers .
 
 
 ![Snap_1]![Screenshot 2024-11-16 152229](https://github.com/user-attachments/assets/17dcd0b2-5aa1-4c81-8696-93aa9b5c63ad)
